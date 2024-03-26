@@ -1,0 +1,13 @@
+
+/* The !important rule in CSS is used to add more importance to a property/value than normal. - W3schools */
+body {
+    background:#CCCCCC !important;
+}
+
+.cvheadings{
+    text-align: center;
+}
+
+.cvheadings2{
+    text-align: left;
+}
